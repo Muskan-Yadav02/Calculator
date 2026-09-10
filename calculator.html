@@ -76,7 +76,10 @@
       document.querySelector('#display').value=currentDisplay;
       ">*</button>
 
-      <button class="button op-button equal-button" onclick="eval()">=</button>
+      <button class="button op-button equal-button" onclick="
+      currentDisplay=eval(currentDisplay);
+      document.querySelector('#display').value=currentDisplay;
+      ">=</button>
 
     </div>
   </div>
