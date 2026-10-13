@@ -24,8 +24,7 @@ git clone https://github.com/Muskan-Yadav02/Calculator.git
 ```bash
 cd Calculator
 ```
-### 3. Run the Application
-open the calculator.html file in your web browser to start using the calculator.
+### 3. Open the **calculator.html** file in your web browser
 
 ## 🎯 Project Objective
 The objective of this project is to develop a simple calculator that makes everyday mathematical calculations easy while providing practical experience in application development and user interface design.
